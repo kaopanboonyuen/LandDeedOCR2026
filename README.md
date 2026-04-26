@@ -1,4 +1,4 @@
-# 🇹🇭🚀 CHULA-AI x Department of Lands (DOL) 2026
+# 🚀 CHULA-AI x Department of Lands (DOL) 2026
 ## *Transforming Land Title Deeds into Intelligent Digital Assets* 🤖📜
 
 ---
@@ -76,7 +76,7 @@ Topics:
 ## 🟢 3. Hands-on Deep Learning
 
 📓 Notebook:  
-👉 https://colab.research.google.com/github/kaopanboonyuen/LandDeedOCR2026/code/DOL2026_DeepLearning.ipynb
+👉 https://colab.research.google.com/github/kaopanboonyuen/LandDeedOCR2026/blob/main/code/DOL2026_DeepLearning.ipynb
 
 - Train CNN models
 - Evaluate performance
@@ -87,7 +87,7 @@ Topics:
 ## 🟡 4. Lab 1 — MNIST
 
 📓 Notebook:  
-👉 https://colab.research.google.com/github/kaopanboonyuen/LandDeedOCR2026/code/DOL2026_DeepLearning_Lab1.ipynb
+👉 https://colab.research.google.com/github/kaopanboonyuen/LandDeedOCR2026/blob/main/code/DOL2026_DeepLearning_Lab1.ipynb
 
 - Build custom architectures
 - Compare:
@@ -98,7 +98,7 @@ Topics:
 ## 🔴 5. Lab 2 — Fashion MNIST (SOTA Models)
 
 📓 Notebook:  
-👉 https://colab.research.google.com/github/kaopanboonyuen/LandDeedOCR2026/code/DOL2026_DeepLearning_Lab2.ipynb
+👉 https://colab.research.google.com/github/kaopanboonyuen/LandDeedOCR2026/blob/main/code/DOL2026_DeepLearning_Lab2.ipynb
 
 Models used:
 - ResNet
