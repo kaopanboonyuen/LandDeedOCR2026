@@ -46,7 +46,7 @@ LandDeedOCR2026/
 ## 🟣 1. CHULA-AI Platform Presentation
 
 📄 View Slides:  
-👉 https://github.com/kaopanboonyuen/LandDeedOCR2026/slides/CHULA-AI-Vision-Segmentation-and-OCR-Platform.pdf
+👉 https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/slides/CHULA-AI-Vision-Segmentation-and-OCR-Platform.pdf
 
 Highlights:
 - AI Vision for land deed segmentation
@@ -62,7 +62,7 @@ Highlights:
 ## 🔵 2. Deep Learning Fundamentals (For DOL)
 
 📄 View Slides:  
-👉 https://github.com/kaopanboonyuen/LandDeedOCR2026/slides/DOL_deep_learning.pdf
+👉 https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/slides/DOL_deep_learning.pdf
 
 Topics:
 - AI / Deep Learning basics
@@ -76,7 +76,7 @@ Topics:
 ## 🟢 3. Hands-on Deep Learning
 
 📓 Notebook:  
-👉 https://github.com/kaopanboonyuen/LandDeedOCR2026/code/DOL2026_DeepLearning.ipynb
+👉 https://colab.research.google.com/github/kaopanboonyuen/LandDeedOCR2026/code/DOL2026_DeepLearning.ipynb
 
 - Train CNN models
 - Evaluate performance
@@ -87,7 +87,7 @@ Topics:
 ## 🟡 4. Lab 1 — MNIST
 
 📓 Notebook:  
-👉 https://github.com/kaopanboonyuen/LandDeedOCR2026/code/DOL2026_DeepLearning_Lab1.ipynb
+👉 https://colab.research.google.com/github/kaopanboonyuen/LandDeedOCR2026/code/DOL2026_DeepLearning_Lab1.ipynb
 
 - Build custom architectures
 - Compare:
@@ -98,7 +98,7 @@ Topics:
 ## 🔴 5. Lab 2 — Fashion MNIST (SOTA Models)
 
 📓 Notebook:  
-👉 https://github.com/kaopanboonyuen/LandDeedOCR2026/code/DOL2026_DeepLearning_Lab2.ipynb
+👉 https://colab.research.google.com/github/kaopanboonyuen/LandDeedOCR2026/code/DOL2026_DeepLearning_Lab2.ipynb
 
 Models used:
 - ResNet
