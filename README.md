@@ -208,7 +208,7 @@ If you use this work, please cite:
 ```bibtex
 @article{panboonyuen2025chula,
   title={CHULA: Custom Heuristic Uncertainty-Guided Loss for Accurate Land Title Deed Segmentation},
-  author={Panboonyuen, Teerapong and Charoenphon, Chaiyut and Satirapod, Chalermchon},
+  author={Panboonyuen, Teerapong},
   journal={IEEE Access},
   year={2025},
   publisher={IEEE}
