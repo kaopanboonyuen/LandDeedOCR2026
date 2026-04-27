@@ -113,7 +113,7 @@ Models used:
 ## 🟠 6. KAO STUDIO (Annotation System for DOL)
 
 📄 Slides:
-👉 [https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/slides/DOL2026-KAO-STUDIO.pdf](https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/slides/DOL2026-KAO-STUDIO.pdf)
+👉 [https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/slides/KAO-STUDIO-DOL.pdf](https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/slides/KAO-STUDIO-DOL.pdf)
 
 📦 Source:
 👉 [https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/code/kao-studio.zip](https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/code/kao-studio.zip)
