@@ -30,12 +30,14 @@ LandDeedOCR2026/
 │
 ├── slides/
 │   ├── CHULA-AI-Vision-Segmentation-and-OCR-Platform.pdf
-│   └── DOL_deep_learning.pdf
+│   ├── DOL_deep_learning.pdf
+│   └── DOL2026-KAO-STUDIO.pdf
 │
 ├── code/
 │   ├── DOL2026_DeepLearning.ipynb
 │   ├── DOL2026_DeepLearning_Lab1.ipynb
-│   └── DOL2026_DeepLearning_Lab2.ipynb
+│   ├── DOL2026_DeepLearning_Lab2.ipynb
+│   └── kao-studio.zip
 
 ````
 
