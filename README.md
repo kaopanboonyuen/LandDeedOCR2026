@@ -108,6 +108,59 @@ Models used:
 
 ---
 
+## 🟠 6. KAO STUDIO (Annotation System for DOL)
+
+📄 Slides:
+👉 [https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/slides/DOL2026-KAO-STUDIO.pdf](https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/slides/DOL2026-KAO-STUDIO.pdf)
+
+📦 Source:
+👉 [https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/code/kao-studio.zip](https://github.com/kaopanboonyuen/LandDeedOCR2026/blob/main/code/kao-studio.zip)
+
+---
+
+### 🔍 What is Kao Studio?
+
+Customized version of Label Studio for **Thai land title deed annotation**.
+
+* PIN detection (core reference)
+* Polygon boundaries
+* OCR labeling (Thai text)
+
+---
+
+### ⚙️ Tech Stack
+
+* Docker
+* Docker Compose
+* MobaXterm
+* YAML (config)
+* XML (label schema)
+
+---
+
+### 🛠️ Install & Run
+
+```bash
+docker compose up -d
+```
+
+Open: [http://localhost:8080](http://localhost:8080)
+
+---
+
+### 🎯 Why Kao Studio?
+
+* 🔒 Secure (runs locally, no cloud)
+* 🗺️ Optimized for DOL land deeds
+* ⚡ Faster & standardized annotation
+* 🤖 AI-ready dataset generation
+
+---
+
+👉 Bridge from **raw land documents → AI-ready data** 🚀
+
+---
+
 # 🧠 CHULA-AI Ecosystem
 
 ### 1️⃣ CHULA-AI Detection
